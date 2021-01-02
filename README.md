@@ -1,6 +1,6 @@
-﻿<p align="center">
-  <img alt="Happy" src=".github/logo_happy.svg" width="60%">
-</p>
+﻿<h1 align="center">
+  Happy
+</h1>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
